@@ -16,7 +16,7 @@ This program is designed as an exciting introduction to modern astrophysics, esp
 * 🔭 Spectral Analysis and Real Astronomical Data
 * 💻 Computational Astrophysics & Simulations
 
-I’m **Ankit Mishra**, currently pursuing an M.Sc. in Physics at Indian Institute of Technology Madras, with research interests in **high-energy astrophysics**, particularly compact objects, accretion physics, radiative transfer processes, and X-ray spectral modeling. My work involves understanding some of the most extreme environments in the universe using observational and computational techniques. I have also worked on interdisciplinary research projects connecting physics, astronomy, and computational methods. 🔬⚡
+I’m **Ankit Mishra**, currently pursuing an M.Sc. in Physics at Indian Institute of Technology Bombay, with research interests in **high-energy astrophysics**, particularly compact objects, accretion physics, radiative transfer processes, and X-ray spectral modeling. My work involves understanding some of the most extreme environments in the universe using observational and computational techniques. I have also worked on interdisciplinary research projects connecting physics, astronomy, and computational methods. 🔬⚡
 
 This program will not just be lectures — we will actively *do astrophysics*.
 You will encounter:
